@@ -19,14 +19,14 @@
 
 ## Ссылка на проект
 
-Проект доступен на GitHub по ссылке: https://github.com/example/travel-russia
+Проект доступен на GitHub по ссылке: https://github.com/Skywrathes/russian-travel.git
 
 ## GitHub Pages
 
-Работа также выложена на GitHub Pages и доступна по ссылке: https://example.github.io/travel-russia/
+Работа также выложена на GitHub Pages и доступна по ссылке: https://skywrathes.github.io/russian-travel/
 
 ## Инструкция по развертыванию проекта
 
-1. Склонируйте репозиторий на свой компьютер с помощью команды `git clone https://github.com/example/travel-russia.git`
+1. Склонируйте репозиторий на свой компьютер с помощью команды `git clone https://github.com/Skywrathes/russian-travel.git`
 2. Откройте файл `index.html` в браузере
 3. Готово!
