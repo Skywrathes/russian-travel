@@ -26,7 +26,7 @@
   height: 52px;
 }
 
-.lang-link-container {
+.header__lang-link-container {
   display: flex;
   gap: 18px;
 }
@@ -134,7 +134,7 @@
   line-height: 1.5;
 }
 
-.list__number {
+.intro__list_number {
   font-weight: normal;
 }
 
