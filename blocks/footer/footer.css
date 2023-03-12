@@ -6,7 +6,6 @@
   .footer {
     padding-left: calc(24px + (48 - 24) * ((100vw - 768px)/(1024 - 768)));
     padding-right: calc(24px + (48 - 24) * ((100vw - 768px)/(1024 - 768)));
-    padding-top: 88px;
   }
 }
 
