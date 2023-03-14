@@ -1,17 +1,17 @@
-.cover_margin {
+.cover_margin_cover {
   margin-left: 48px;
   margin-right: 48px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1280px) {
-  .cover_margin {
+  .cover_margin_cover {
     margin-left: calc(0px + (48 - 0) * ((100vw - 1024px)/(1280 - 1024)));
     margin-right: calc(0px + (48 - 0) * ((100vw - 1024px)/(1280 - 1024)));
   }
 }
 
 @media screen and (max-width: 1024px) {
-  .cover_margin {
+  .cover_margin_cover {
     margin-left: 0;
     margin-right: 0;
   }
